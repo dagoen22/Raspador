@@ -1,7 +1,7 @@
 [project]
-name = "raspador com crawl4ai"
+name = "raspador"
 version = "0.1.0"
-description = "Raspe o que precisar"
+description = "Scrape sites"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
