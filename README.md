@@ -1,4 +1,3 @@
----
 # 🤖✨ **Website Scraper with Craw4ai** ✨🤖
 > "Because copying and pasting is so last decade... and web scraping has never been easier! 🚀"
 
