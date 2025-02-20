@@ -14,8 +14,8 @@ Before you begin, make sure you have the following installed:
 ## 🚀 **Quick Installation**
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/dagoen22/Raspador-de-sites-com-Craw4ai.git
-cd Raspador-de-sites-com-Craw4ai
+git clone https://github.com/dagoen22/Raspador.git
+cd Raspador
 ```
 
 ## 🎮 **How to Use**
